@@ -1,4 +1,3 @@
-# House Price Prediction using ANN (MLP)
 1-📌 Problem Description
   This project uses a Multilayer Perceptron (MLP) built with PyTorch to predict house prices 
   based on features like income, house age, number of rooms, population, and location.
@@ -46,4 +45,10 @@ You can download the dataset used in this project from the following link:
     Faculty of Artificial Intelligence – Badr Assiut University
     Department of Information Technology – Year 3
 
- 
+
+
+
+
+
+
+    
